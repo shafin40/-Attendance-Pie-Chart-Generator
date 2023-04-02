@@ -1,0 +1,7 @@
+This code is a program that helps you make a chart to show how many students were present and how many were absent in your class.
+
+When you run the program, a window will open with two boxes where you can type in how many students were present and how many were absent in your class.
+
+Then, when you click the "Create Pie Chart" button, a pie chart will be made using that information. The pie chart will show you what percentage of students were present and what percentage were absent.
+
+It's a helpful tool to use if you want to see how many students come to class regularly or if you want to show your teacher or parents how many students were there on a particular day.
